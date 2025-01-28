@@ -18,9 +18,9 @@ This research addresses the problem of malignant brain tumour detection by devel
 
 Contribution to knowledge
 _____________________________
-This project significantly advances the field of neuro-oncology by developing highly accurate and efficient AI-based diagnostic tools for detecting malignant brain tumours. This contribution to knowledge is multifaceted:
-●	Improved Diagnostic Accuracy: The AI tool aim to reduce inter-observer variability among doctors interpreting scans, leading to more consistent and precise diagnoses. This translates to earlier detection and potentially better treatment outcomes for patients.
-●	Overcoming Implementation Challenges: The study identifies and addresses technical and clinical challenges associated with implementing AI in medical imaging. This knowledge will be invaluable for future research and real-world applications of AI in healthcare.
-●	Ethical and Regulatory Frameworks: By establishing ethical and regulatory frameworks for using AI in healthcare, the project contributes to the safe, ethical, and effective integration of this technology into clinical practice.
+This project significantly advances the field of neuro-oncology by developing highly accurate and efficient AI-based diagnostic tools for detecting malignant brain tumours. This contribution to knowledge is multifaceted:  
+●	Improved Diagnostic Accuracy: The AI tool aim to reduce inter-observer variability among doctors interpreting scans, leading to more consistent and precise diagnoses. This translates to earlier detection and potentially better treatment outcomes for patients.  
+●	Overcoming Implementation Challenges: The study identifies and addresses technical and clinical challenges associated with implementing AI in medical imaging. This knowledge will be invaluable for future research and real-world applications of AI in healthcare.  
+●	Ethical and Regulatory Frameworks: By establishing ethical and regulatory frameworks for using AI in healthcare, the project contributes to the safe, ethical, and effective integration of this technology into clinical practice.  
 Overall, the research has the potential to revolutionise brain tumour detection, enhance patient outcomes, and optimise healthcare resource allocation.
 
